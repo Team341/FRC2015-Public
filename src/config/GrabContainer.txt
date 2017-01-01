@@ -1,0 +1,7 @@
+MixedDrive 12.0 0.0 0.0 0.0
+MixedDrive -6.0 -40.0 0.0 0.0
+MixedDrive 9.0 0.0 0.0 0.0
+MixedDrive 4.0 0.0 0.7 0.0
+RunIntake 0.7 1.0 0.0
+MixedDrive 10.0 0.0 0.0 0.0
+MixedDrive 0.0 33.0 0.0 0.0
