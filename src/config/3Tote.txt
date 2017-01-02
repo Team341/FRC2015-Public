@@ -1,0 +1,11 @@
+RunIntake 0.4 1.5
+Turn 10.0 5.3
+MixedDrive 10.0 22.0
+Turn 360.0 5.30
+MixedDrive 65.0 22.0
+RunIntake 0.4 1.5
+Turn 360.0 5.30
+MixedDrive 65.0 22.0
+RunIntake 0.4 1.5
+Turn 300.0 6.5
+MixedDrive -65.0 0.0
